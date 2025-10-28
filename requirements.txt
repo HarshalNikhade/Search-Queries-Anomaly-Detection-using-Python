@@ -1,0 +1,7 @@
+# Search Queries Anomaly Detection using Python
+# Author: [Your Name]
+# Description: Required Python libraries for anomaly detection and visualization
+
+pandas>=2.0.0
+plotly>=5.0.0
+scikit-learn>=1.2.0
