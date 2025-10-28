@@ -82,7 +82,7 @@ The goal is to identify **outlier queries** whose CTR or ranking deviates from n
 #### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/search-queries-anomaly-detection.git
+git clone https://github.com/HarshalNikhade/Search-Queries-Anomaly-Detection-using-Python.git
 cd search-queries-anomaly-detection
 ```
 
